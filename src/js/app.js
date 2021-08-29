@@ -12,7 +12,7 @@ $(function() {
         {score: 3, speed: 750, message: 'You\'ve got it!', points: 2, keys: 2},
         {score: 20, speed: 670, message: 'Keep going!', points: 5, keys: 3},
         {score: 70, speed: 620, message: 'You\'re doing great!', points: 7, keys: 3},
-        {score: 150, speed: 560, message: 'You rock!', points: 10, keys: 3},
+        {score: 150, speed: 560, message: 'You rock!', points: 100000, keys: 3},
         {score: 300, speed: 510, message: 'Don\'t stop!', points: 12, keys: 4},
         {score: 500, speed: 490, message: 'Tricky!', points: 15, keys: 4},
         {score: 760, speed: 465, message: 'Great!', points: 17, keys: 4},
